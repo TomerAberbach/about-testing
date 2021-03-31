@@ -1,8 +1,0 @@
-/* @theme custom-theme */
-
-@import 'default'
-
-.columns {
-  display: flex;
-  flex-direction: row;
-}
